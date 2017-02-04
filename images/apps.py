@@ -8,3 +8,5 @@ class ImagesConfig(AppConfig):
     def ready(self):
         # import signal handlers
         import images.signals
+
+# 개신기
